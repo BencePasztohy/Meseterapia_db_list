@@ -7,6 +7,7 @@
 // echo "Adatbevitel:";
 // include("terapeuta_input.php"); 
 // comment
+// comment2
 ?>
 <?php include("display.php"); ?>
 </body>
