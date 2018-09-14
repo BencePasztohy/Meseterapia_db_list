@@ -1,0 +1,17 @@
+@charset: utf-8;
+
+.card {
+	width: 300px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 5px;
+}
+.card p {
+	margin-left: 100px;
+}
+.card img {
+	width: 60px;
+	float: left;
+	margin: 10px;
+}
